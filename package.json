@@ -1,6 +1,6 @@
 {
   "name": "markdeep-rasterizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rasterizes Markdeep (https://casual-effects.com/markdeep/) files to HTML using puppeteer",
   "homepage": "https://github.com/romainguy/markdeep-rasterizer",
   "main": "index.js",
