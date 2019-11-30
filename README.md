@@ -1,9 +1,9 @@
 # Markdeep Rasterizer
 
 This module can be used to convert [Markdeep](https://casual-effects.com/markdeep/) files
-to static HTML. Converting Markdeep files to static HTML greatly improves load times in complex documents. It can also be beneficial to users who choose to disable JavaScript. The conversion is performed using Chromium via [Puppeteer](https://github.com/puppeteer/puppeteer).
+to static HTML. Converting Markdeep files to static HTML greatly improves load times in complex documents. It can also be beneficial to users who choose to disable JavaScript (the generated document still needs JavaScript to render equations though). The conversion is performed using Chromium via [Puppeteer](https://github.com/puppeteer/puppeteer).
 
-This conversion can also be attempted using Firefox of Chrome in headless mode from the command line, but the generated result still attemptes to execute Markdeep.
+This conversion can also be attempted using Firefox of Chrome in headless mode from the command line, but the generated result still attempts to execute Markdeep.
 
 # Example
 
