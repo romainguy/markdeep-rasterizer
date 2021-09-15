@@ -7,6 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romainguy/markdeep-rasterizer.git"
+  },
   "author": "Romain Guy <romainguy@curious-creature.com> (http://www.curious-creature.com)",
   "license": "Apache-2.0",
   "bin": {
